@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phanibhushanksa
+- 👋 Hi, I’m Srinivasa Kolla (Phani)
 - 👀 I’m interested in solving real world problems with the help of Data
 - 🌱 I’m currently working as a Data Science intern at Anthem Health Care
 - 💞️ I’m looking Fall 2021 Internships and Full time opportunities starting January 2022.
