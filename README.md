@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Srinivasa Kolla (Phani)
-- 👀 I’m interested and excited about trying new AI tools and building applications.
+- 👀 I’m love solve problems and automate things to increase productivity.
+- Exploring and excited about trying new AI tools like Langraph, CrewAI. 
 - 🌱 Currently, I’m working as a Senior Data Scientist at Elevance Health.
 - 📫 I can reached at : phanibhushanksa@gmail.com, 8135107827
 
