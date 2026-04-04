@@ -30,5 +30,3 @@ I also do 1:1 mentoring for folks trying to break into AI Engineering or level u
 ### Let's connect
 
 [LinkedIn](https://www.linkedin.com/in/phanibhushanksa/) · [Medium](https://medium.com/@phanibhushanksa) · [Book a call](https://topmate.io/phanikolla) · phanibhushanksa@gmail.com
-
-*Open to senior / staff ML engineering roles — especially where healthcare AI meets real operational complexity.*
