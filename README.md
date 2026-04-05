@@ -11,7 +11,7 @@ I work at Elevance Health, building production-grade AI systems for healthcare. 
 ### What I'm working with
 
 **Current stack**
-`LangGraph` `RAG / Agentic systems` `AWS + Kubeflow` `Fiddler AI` `Protegrity (PHI/PII)` `Eval-as-a-Service` `AWS Strands` `Python` `Docker` `Streamlit`
+`LangGraph` `AWS Strands` `RAG / Agentic systems` `AWS + Kubeflow` `Fiddler AI` `Protegrity (PHI/PII)` `Eval-as-a-Service` `AWS Strands` `Python` `Docker` `Streamlit`
 
 **What I actually spend my time on**
 
