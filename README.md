@@ -1,6 +1,6 @@
 ## Hey, I'm Phani 👋
 
-**Senior AI Engineer · Tampa, FL**
+**Senior AI Engineer**
 
 I work at Elevance Health, building production-grade AI systems for healthcare. My day-to-day lives at the intersection of LLMs, regulatory constraints, and clinical workflows.
 
