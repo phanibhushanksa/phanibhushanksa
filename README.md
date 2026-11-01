@@ -21,7 +21,7 @@ Building agentic RAG pipelines that work reliably in production. Designing LLM e
 
 ### Beyond the job
 
-I write on [Medium](https://medium.com/@phanibhushanksa) occasionally when something in AI engineering feels under-explained or over-hyped. Not a regular, just when I have something worth sharing.
+I write on [Medium](https://medium.com/@phanibhushanksa) and [Substack](https://substack.com/@phanibhushankolla) occasionally when something in AI engineering feels under-explained or over-hyped. Not a regular, just when I have something worth sharing.
 
 I also do 1:1 mentoring for folks trying to break into AI Engineering or level up toward senior roles. If that's you, feel free to [book time](https://topmate.io/phanikolla). If you would love to have a conversation about AI Engineering/LLMs I would love that too. 
 
