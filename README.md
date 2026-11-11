@@ -2,7 +2,9 @@
 
 **Senior AI Engineer**
 
-I work at Elevance Health, building production-grade AI systems for healthcare. My day-to-day lives at the intersection of LLMs, regulatory constraints, and clinical workflows.
+Currently, I work at CVS Health, identifying AI opportunities and collaborating with business teams. Improving existing AI workflows by evaluating and adding observability. 
+
+Previously, I worked at Elevance Health, building production-grade AI systems for healthcare. My day-to-day life is at the intersection of LLMs, regulatory constraints, and clinical workflows.
 
 5+ years in healthcare AI have made me clear on what it takes to ship and maintain these systems, not just prototype them. I care a lot about the boring-but-important stuff: eval frameworks, PHI-safe pipelines, explainability, and keeping costs sane in production.
 
@@ -15,7 +17,7 @@ I work at Elevance Health, building production-grade AI systems for healthcare. 
 
 **What I actually spend my time on**
 
-Building agentic RAG pipelines that work reliably in production. Designing LLM evaluation frameworks that don't cost a fortune. Also a lot of cross-team collaboaration, which I genuinely enjoy.
+Building agentic RAG pipelines that work reliably in production. Designing LLM evaluation frameworks that don't cost a fortune. Also a lot of cross-team collaboration, which I genuinely enjoy.
 
 ---
 
